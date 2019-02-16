@@ -1,0 +1,30 @@
+form {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  color: blue;
+}
+.headerText {
+  font-family: 'PT Serif', serif;
+  color: green;
+}
+.jumbotron {
+  text-align: center;
+  padding bottom: 0px;
+}
+#jobResults {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 35px;
+  width: 100%;
+  background-color: #343a40!important;
+  color: white;
+  text-align: center;
+}
